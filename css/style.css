@@ -6,7 +6,7 @@
 
 .promo {
     height: 800px;
-    background: url(/src/img/bg/main_bg.png) center center/cover no-repeat; /* Задал фон секции promo. Указал расположение по оси x и y, а также указал растяжение изображения, если картинка не помещается. no-repeat - чтобы картнка не повторялась.*/
+    background: url(../img/bg/main_bg.png) center center/cover no-repeat; /* Задал фон секции promo. Указал расположение по оси x и y, а также указал растяжение изображения, если картинка не помещается. no-repeat - чтобы картнка не повторялась.*/
     padding: 39px 0px 62px 0px; /* По часовой стрелке */
 }
 
@@ -213,7 +213,7 @@ h2.title {
 .finish {
     min-height: 447px;
     padding: 86px 0 79px 0;
-    background: url(/src/img/bg/second_bg.png) center center/cover no-repeat;
+    background: url(../img/bg/second_bg.png) center center/cover no-repeat;
 }
 
 .finish .finish_wrapper {
